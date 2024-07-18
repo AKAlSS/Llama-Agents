@@ -1,0 +1,3 @@
+[console_scripts]
+llama-agents=llama_agents.cli.command_line:main
+
